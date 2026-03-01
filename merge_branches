@@ -1,0 +1,5 @@
+git checkout -b bug-fix-typo
+# Make a small change
+echo "This is a fix." >> file.txt
+git add file.txt
+git commit -m "Fix typo in file.txt"
