@@ -1,5 +1,11 @@
-git checkout -b bug-fix-typo
-# Make a small change
-echo "This is a fix." >> file.txt
-git add file.txt
-git commit -m "Fix typo in file.txt"
+# Switch to main branch
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+# Merge the bug-fix-typo branch into main
+$ git merge bug-fix-typo
+Updating a1b2c3d..d4e5f6g
+Fast-forward
+ hello.txt | 1 +
+ 1 file changed, 1 insertion(+)
