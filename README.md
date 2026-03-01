@@ -1,3 +1,24 @@
 # My-Calculator
-For calculate the interest.
-README.MD
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Interest Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Simple Interest Calculator</h2>
+
+    <input type="number" id="principal" placeholder="Enter Principal">
+    <input type="number" id="rate" placeholder="Enter Rate (%)">
+    <input type="number" id="time" placeholder="Enter Time (Years)">
+
+    <button onclick="calculateSI()">Calculate</button>
+
+    <p id="result"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
