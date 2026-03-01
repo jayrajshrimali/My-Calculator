@@ -1,0 +1,18 @@
+{
+  "id": 123456789,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMjM0NTY3ODk=",
+  "name": "mcino-introduction-to-git-and-github",
+  "full_name": "YOUR_USERNAME/mcino-introduction-to-git-and-github",
+  "private": false,
+  "owner": {
+    "login": "YOUR_USERNAME",
+    "id": 1234567
+  },
+  "fork": true,
+  "parent": {
+    "full_name": "IBM-Developer-Skills-Network/mcino-introduction-to-git-and-github",
+    "owner": {
+      "login": "IBM-Developer-Skills-Network"
+    }
+  }
+}
