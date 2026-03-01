@@ -1,26 +1,31 @@
 {
-  "url": "https://api.github.com/repos/IBM-Developer-Skills-Network/mcino-introduction-to-git-and-github/pulls/1",
-  "id": 123456789,
-  "number": 1,
+  "url": "https://api.github.com/repos/IBM-Developer-Skill-Network/mcnio-introduction-to-git-and-github/pulls/1",
+  "id": 987654321,
+  "node_id": "PR_kwDO12345",
+  "html_url": "https://github.com/IBM-Developer-Skill-Network/mcnio-introduction-to-git-and-github/pull/1",
   "state": "open",
-  "title": "Bug fix typo",
+  "title": "Fix typo in README",
   "user": {
-    "login": "YOUR_USERNAME",
-    "id": 1234567
+    "login": "your-username",
+    "id": 123456789
   },
+  "body": "This pull request fixes a typo in the README file.",
   "head": {
-    "label": "YOUR_USERNAME:bug-fix-typo",
+    "label": "your-username:bug-fix-typo",
     "ref": "bug-fix-typo",
+    "sha": "d4e5f6g",
     "repo": {
-      "full_name": "YOUR_USERNAME/mcino-introduction-to-git-and-github",
+      "full_name": "your-username/mcnio-introduction-to-git-and-github",
       "fork": true
     }
   },
   "base": {
-    "label": "IBM-Developer-Skills-Network:main",
+    "label": "IBM-Developer-Skill-Network:main",
     "ref": "main",
+    "sha": "a1b2c3d",
     "repo": {
-      "full_name": "IBM-Developer-Skills-Network/mcino-introduction-to-git-and-github"
+      "full_name": "IBM-Developer-Skill-Network/mcnio-introduction-to-git-and-github",
+      "fork": false
     }
   }
 }
