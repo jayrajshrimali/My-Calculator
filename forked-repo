@@ -1,18 +1,16 @@
 {
   "id": 123456789,
   "node_id": "MDEwOlJlcG9zaXRvcnkxMjM0NTY3ODk=",
-  "name": "mcino-introduction-to-git-and-github",
-  "full_name": "YOUR_USERNAME/mcino-introduction-to-git-and-github",
+  "name": "mcnio-introduction-to-git-and-github",
+  "full_name": "your-username/mcnio-introduction-to-git-and-github",
   "private": false,
   "owner": {
-    "login": "YOUR_USERNAME",
-    "id": 1234567
+    "login": "your-username",
+    "id": 987654321
   },
   "fork": true,
-  "parent": {
-    "full_name": "IBM-Developer-Skills-Network/mcino-introduction-to-git-and-github",
-    "owner": {
-      "login": "IBM-Developer-Skills-Network"
-    }
-  }
+  "url": "https://api.github.com/repos/your-username/mcnio-introduction-to-git-and-github",
+  "forks_url": "https://api.github.com/repos/your-username/mcnio-introduction-to-git-and-github/forks",
+  "created_at": "2026-03-01T00:00:00Z",
+  "updated_at": "2026-03-01T00:00:00Z"
 }
